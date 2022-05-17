@@ -4,11 +4,11 @@
 # 
 [此项目的参与指南](./README.md)
 
-[有什么问题留言我](https://github.com/GNU-Linux-libre/open-source-world/issues)
+[有什么问题Session联系我](https://github.com/GNU-Linux-libre/Awesome-Session-Group-List/blob/main/Private.md#fufps-good-fu)
 #
 [搜索引擎大全 浏览器大全](https://github.com/GNU-Linux-libre/Awesome-Browser-Search-Engine) \
 [Awesome-VPN-Network](https://github.com/GNU-Linux-libre/Awesome-VPN-Network) \
-**[免费永久域名是真正的分散域名，没有续费.](https://foreverdomains.io/)
+**[免费永久域名是真正的分散域名，没有续费.](https://foreverdomains.io/)**
 #
 ![](images/minetest.cosoc.cn.jpeg)
 
