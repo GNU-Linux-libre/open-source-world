@@ -10,6 +10,8 @@
 [Awesome-VPN-Network](https://github.com/GNU-Linux-libre/Awesome-VPN-Network) \
 **[免费永久域名是真正的分散域名，没有续费.](https://foreverdomains.io/)
 #
+# [Minetest中文论坛](https://minetest.cosoc.cn/t/aiss-64-1024-px/270)
+
 
 
 浏览器“ctrl+f”快速查找可能有助于按主题查找社区
