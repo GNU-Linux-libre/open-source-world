@@ -457,7 +457,6 @@ https://www.minebbs.com/resources/categories/55/
 [Black_Squad 黑色小队 台湾版可以打中文](https://vfun.valofe.com/home) \
 [Black_Squad 黑色小队](https://store.steampowered.com/app/550650) \
 比csgo好玩[TO4_Tactical_Operations](https://store.steampowered.com/app/690980) \
-[A.V.A 戰地之王](https://ava.mangot5.com/ava/index) \
 [A.V.A steam版](https://store.steampowered.com/app/1473480) \
 [HEAT REBORN 火线任务](https://store.steampowered.com/app/1219590) \
 [死寂 Deathly Stillness](https://store.steampowered.com/app/1727650) \
