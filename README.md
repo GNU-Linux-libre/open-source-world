@@ -452,8 +452,12 @@ https://www.minebbs.com/resources/categories/55/
 *<div align="right"><a href="#目录">回到目录</a></div>*
 减少游戏ping使用[simple dnscrypt](https://simplednscrypt.org) \
 [League_of_Maidens](https://store.steampowered.com/app/557180) \
-[FPS游戏 Drakelings 社区](https://drakelings.bluedrake42.com/index.php)
+[FPS游戏 Drakelings 社区](https://drakelings.bluedrake42.com/index.php)  \
+[11个开源FPS游戏](https://alternativeto.net/software/counter-strike/?license=opensource&p=2)
 ---- ---
+开源[Urban Terror](https://www.urbanterror.info/home/)  \
+开源[Unvanquished](https://unvanquished.net/)  \
+开源[Tremulous](https://darklegion.github.io/)  \
 [Black_Squad 黑色小队 台湾版可以打中文](https://vfun.valofe.com/home) \
 [Black_Squad 黑色小队](https://store.steampowered.com/app/550650) \
 比csgo好玩[TO4_Tactical_Operations](https://store.steampowered.com/app/690980) \
@@ -462,6 +466,7 @@ https://www.minebbs.com/resources/categories/55/
 [死寂 Deathly Stillness](https://store.steampowered.com/app/1727650) \
 [Nine_to_Five](https://store.steampowered.com/app/1408680) \
 [Scavengers](https://store.steampowered.com/app/1183940) \
+[10个开源FPS游戏](https://linux.cn/article-1506-1.html)  \
 [其他fps](https://store.steampowered.com/search/?term=fps&maxprice=free&category1=998)
 <!-- [Battle Shooter](https://store.steampowered.com/app/1861860/Battle_Shooter/) -->
 练枪法[Aim_FTW](https://store.steampowered.com/app/1111300) \
