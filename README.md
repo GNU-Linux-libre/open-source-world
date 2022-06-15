@@ -51,6 +51,9 @@
   - [游戏商店](#游戏商店)
     - [FPS游戏](#FPS游戏)
   - [录视频](#录视频)
+  - [视频编辑](#视频编辑)
+  - [视频压缩](#视频压缩)
+  - [编曲](#编曲)
   - [OBS和直播平台](#OBS和直播平台)
   - [视频播放器](#视频播放器)
   - [bt播放器](#bt播放器)
@@ -95,10 +98,10 @@
 #
 ## Minetest Python版
 *<div align="right"><a href="#目录">回到目录</a></div>*
-https://github.com/sprintingkiwi/pycraft_mod
-https://github.com/miney-py
-https://github.com/miney-py/miney
-https://github.com/arpruss/raspberryjammod-minetest
+* https://github.com/miney-py
+* https://github.com/sprintingkiwi/pycraft_mod
+* https://github.com/miney-py/miney
+* https://github.com/arpruss/raspberryjammod-minetest
 #
 ## Minetest 教程
 *<div align="right"><a href="#目录">回到目录</a></div>*
@@ -475,6 +478,7 @@ https://www.minebbs.com/resources/categories/55/
 #
 ## 录视频
 *<div align="right"><a href="#目录">回到目录</a></div>*
+* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 * [Capture Screen](https://github.com/MathewSachin/Captura)
 * [Screencast Capture Lite](https://github.com/cesarsouza/screencast-capture)
 * [VokscreenNG](https://github.com/vkohaupt/vokoscreenNG)
@@ -482,6 +486,24 @@ https://www.minebbs.com/resources/categories/55/
 * [obs](https://obsproject.com/)
 * 安卓 [Screen Recorder](https://github.com/yrom/ScreenRecorder)
 * 安卓 [ScreenRecorder](https://gitlab.com/vijai/screenrecorder)
+#
+#
+## 视频编辑 
+* [Shotcut Vs Openshot Vs Kdenlive](https://www.bilibili.com/video/BV1Qi4y1x7Y8?spm_id_from=333.999.0.0&vd_source=ea998e5922f6bb21b7c7b852f67c94ba)
+* [无损切割](https://github.com/mifi/lossless-cut)
+* 安卓[Releases下载](https://github.com/SimformSolutionsPvtLtd/SSffmpegVideoOperation) 
+* [DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)
+#
+#
+## 视频压缩
+视频压缩1GB压缩至200MB。F:\2022.mp4是你的视频文件， F:\2023.mp4是压缩后的文件
+* [ffmpeg](https://ffmpeg.org/download.html#build-windows)
+环境变量后
+命令行 ffmpeg -i F:\2022.mp4 -c:v libx264 -preset veryslow -crf 18 F:\2023.mp4
+#
+#
+## 编曲
+[LMMS](https://space.bilibili.com/56147140/channel/seriesdetail?sid=217625)
 #
 #
 ## OBS和直播平台
